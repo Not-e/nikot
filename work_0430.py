@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import leastsq
 from matplotlib.font_manager import FontProperties
-font = FontProperties(fname=r"c:\windows\fonts\simsun.ttc", size=15)
+font = FontProperties(fname=r"c:\windows\fonts\simsun.ttc", size=15)#中文显示
 
 def f(p):
     a,b,c = p
