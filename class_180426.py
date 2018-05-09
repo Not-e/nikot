@@ -60,6 +60,6 @@ plt.xticks(fontsize=20)
 plt.yticks(fontsize=20)
 #刻度字体大小
 plt.legend(loc='upper left')
-#s
+
 plt.show()
 
